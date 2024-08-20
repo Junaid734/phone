@@ -1,2 +1,2 @@
 # phone
-Iphone is better than other
+Iphone is better than other phones.
